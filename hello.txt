@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 create a dev
 at master
+=======
+create a dev
+at master
+create a feature1
+>>>>>>> feature1
